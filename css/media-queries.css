@@ -188,12 +188,13 @@
         }
 
         .main {
-            /*float: left;*/
-            /*width: 80%;*/
+            float: left;
+            width: 50%;
         }
 
         .sub-section {
-            /*float: left;*/
+            float: left;
+            width: 50%;
         }
 
         footer {
