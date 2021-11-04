@@ -64,7 +64,7 @@
 
     .alert-info {
         display: flex;
-        background-color: lightblue;
+        background-color: rgb(193, 255, 255);
         width: 100%;
         border: 1px solid #c1ffff;
         /*align-items: center;*/
